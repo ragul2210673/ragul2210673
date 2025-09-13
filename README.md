@@ -1,10 +1,10 @@
-### Hi there, I'm Ragul P. 👋
+### Hi there, I'm Ragul P.
 
 I am a B.E. student in Electronics and Communication Engineering at SSN College, graduating in 2026. I am passionate about leveraging my skills in IoT, AI, and software development to build intelligent systems that solve real-world problems. I have hands-on experience in cloud architecture from my internship at IIT Madras Research Park and have developed multiple end-to-end projects in computer vision and mobile application development.
 
 ---
 
-### 🔧 Core Competencies
+###  Core Competencies
 
 - **Programming:** Python, C++, C, Java
 - **Frameworks & Tools:** Machine Learning (TensorFlow, Keras), IoT, FastAPI, Flutter, MATLAB
@@ -13,7 +13,7 @@ I am a B.E. student in Electronics and Communication Engineering at SSN College,
 
 ---
 
-### 🚀 Pinned Projects
+###  Projects
 
 *A curated list of my top projects. You can find more in my repositories.*
 
@@ -23,7 +23,7 @@ I am a B.E. student in Electronics and Communication Engineering at SSN College,
 
 ---
 
-📫 **Connect with Me**
+ **Connect with Me**
 
 - **LinkedIn:** [linkedin.com/in/ragul-p-8577002b1](https://www.linkedin.com/in/ragul-p-8577002b1)
 - **Email:** [ragul2210673@ssn.edu.in](mailto:ragul2210673@ssn.edu.in)
