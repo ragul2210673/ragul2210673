@@ -69,5 +69,6 @@ Beyond development, I strive for excellence in every domain. I am a recognized *
 | **[Automated Waste Segregation](https://github.com/ragul2210673/iot-ai-waste-management)** | An embedded IoT solution utilizing sensors and efficient **CNN inference** for real-time automated waste sorting and cloud-based alerts. | *Python, Raspberry Pi, IoT* |
 | **Vehicle Dashboard System** | Architected a **thread-safe simulation** using OOP principles. Implemented the **Observer Pattern** to decouple sensor logic from UI threads for zero-lag updates and used **Smart Pointers** for robust memory management. | *C++17, Multithreading, OOP* |
 ---
-about leveraging technology to solve real-world problems."</i>
+<p align="center">
+  <i>"Passionate about leveraging technology to solve real-world problems."</i>
 </p>
