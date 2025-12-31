@@ -13,8 +13,6 @@
 
 <br>
 
-<br>
-
 ### 👨‍💻 About Me
 
 I am an engineering student at **SSN College of Engineering** (Class of 2026) with a deep-rooted passion for **Software Architecture** and system design. While my academic background is in Electronics, my true calling lies in designing efficient, scalable software ecosystems. I operate as a **Java Full Stack Developer**, bridging the gap between abstract requirements and high-performance, fault-tolerant systems.
