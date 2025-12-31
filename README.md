@@ -16,25 +16,18 @@
 
 ### 👨‍💻 About Me
 
-I am an engineering student at **SSN College of Engineering** (Class of 2026) with a deep-rooted passion for **Software Architecture** and system design. 
+I am an engineering student at **SSN College of Engineering** (Class of 2026) with a deep-rooted passion for **Software Architecture** and system design. While my academic background is in Electronics, my true calling lies in designing efficient, scalable software ecosystems. I operate as a **Java Full Stack Developer**, bridging the gap between abstract requirements and high-performance, fault-tolerant systems.
 
-While my academic background is in Electronics, my professional focus is on designing efficient, scalable software ecosystems. I thrive on solving complex backend problems and leveraging my skills as a **Java Full Stack Developer** to build end-to-end applications. My goal is to engineer fault-tolerant systems that bridge the gap between abstract code and real-world utility.
+My professional journey is defined by hands-on engineering. During my tenure as an **IoT and Cloud Architect Intern at CopterCode (IIT Madras Research Park)**, I engineered a fault-tolerant software pipeline for drone telemetry. I utilized **AWS Lambda** and **IoT Core** to process high-velocity sensor data, optimizing algorithms to reduce latency by **30%**.
 
+Beyond development, I strive for excellence in every domain. I am a recognized **Wipro Earthian State Winner (2022)** and an **NPTEL Topper** (IIT Madras), reflecting my commitment to both technical innovation and academic rigor. whether it's organizing events for *Vidya Sagar* or building complex backend architectures, I am driven by the goal of leveraging technology to solve real-world problems.
+
+---
 * 🔭 **Focus:** Microservices Architecture, Distributed Systems, and Cloud DevOps.
 * 🧠 **Core Competencies:** DSA, Object-Oriented Programming (OOPs), DBMS, and SDLC.
 * ⚡ **Drive:** Transforming requirements into high-performance, deployable software.
 
----
 
-### 💼 Professional Experience
-
-**IoT and Cloud Architect Intern | CopterCode, IIT Madras Research Park**
-*Chennai, India | June 2025*
-* **Pipeline Engineering:** Engineered a fault-tolerant software pipeline for drone telemetry, ensuring reliable real-time data acquisition.
-* **Cloud Architecture:** Developed serverless functions using **AWS Lambda** and **IoT Core** to process high-velocity sensor data with low latency.
-* **Optimization:** Optimized data transmission algorithms, reducing lag by **30%** and significantly enhancing system throughput.
-
----
 
 ### 🛠 Technical Arsenal
 
@@ -76,15 +69,5 @@ While my academic background is in Electronics, my professional focus is on desi
 | **[Automated Waste Segregation](https://github.com/ragul2210673/iot-ai-waste-management)** | An embedded IoT solution utilizing sensors and efficient **CNN inference** for real-time automated waste sorting and cloud-based alerts. | *Python, Raspberry Pi, IoT* |
 | **Vehicle Dashboard System** | Architected a **thread-safe simulation** using OOP principles. Implemented the **Observer Pattern** to decouple sensor logic from UI threads for zero-lag updates and used **Smart Pointers** for robust memory management. | *C++17, Multithreading, OOP* |
 ---
-
-### 🏆 Achievements & Certifications
-
-* **NPTEL Topper:** Recognized as a topper in "Introduction to Fuzzy Set Theory, Arithmetic and Logic" (IIT Madras).
-* **Wipro Earthian State Winner (2022):** Awarded for sustainable thinking and technical implementation.
-* **Academic Excellence:** Secured **2nd Rank** in Higher Secondary Certificate (96.83%).
-* **Volunteering:** Active volunteer for Photography Club INSTINCTS and Organizer for Vidya Sagar Chennai (2017).
-
----
-<p align="center">
-  <i>"Passionate about leveraging technology to solve real-world problems."</i>
+about leveraging technology to solve real-world problems."</i>
 </p>
