@@ -1,15 +1,10 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=2F82F2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ragul+P.;Architecting+Scalable+Solutions;Engineering+Robust+Software+Systems" alt="Typing SVG" />
+
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=I'm+Ragul+P.;Software+Engineer;Backend+Specialist;Cloud+Native+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <br>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragul-p-8577002b1)
-  &nbsp;
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ragul2210673@ssn.edu.in)
 
-</div>
 
 <br>
 
