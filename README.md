@@ -1,6 +1,5 @@
-
-  <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=600&lines=I'm+Ragul+P.;Software+Engineer;Backend+Specialist;Cloud+Native+Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F71212&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ragul+P.;Solving+Complex+Problems;Optimizing+System+Performance;Designing+Fault-Tolerant+Code" alt="Typing SVG" />
 </div>
 
 
