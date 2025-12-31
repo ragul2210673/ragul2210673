@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I am a Software Engineer and final-year student at SSN College of Engineering (Class of 2026), specializing in Java Full Stack Development and System Architecture. Leveraging a strong foundation in Electronics, I focus on designing scalable, fault-tolerant software ecosystems. I bridge the gap between hardware constraints and abstract requirements to build high-performance distributed systems.
+I am a Software Engineer and final-year student at SSN College of Engineering (Class of 2026), specializing Full Stack Development and System Architecture. Leveraging a strong foundation in Electronics, I focus on designing scalable, fault-tolerant software ecosystems. I bridge the gap between hardware constraints and abstract requirements to build high-performance distributed systems.
 
 Professionally, I served as an IoT & Cloud Architect Intern at CopterCode (IIT Madras Research Park), where I engineered a real-time drone telemetry pipeline. By utilizing AWS Lambda and IoT Core, I optimized data transmission algorithms to reduce system latency by 30%.
 
