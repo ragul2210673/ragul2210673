@@ -5,11 +5,11 @@
 
 ### 👨‍💻 About Me
 
-I am an engineering student at **SSN College of Engineering** (Class of 2026) with a deep-rooted passion for **Software Architecture** and system design. While my academic background is in Electronics, my true calling lies in designing efficient, scalable software ecosystems. I operate as a **Java Full Stack Developer**, bridging the gap between abstract requirements and high-performance, fault-tolerant systems.
+I am a Software Engineer and final-year student at SSN College of Engineering (Class of 2026), specializing in Java Full Stack Development and System Architecture. Leveraging a strong foundation in Electronics, I focus on designing scalable, fault-tolerant software ecosystems. I bridge the gap between hardware constraints and abstract requirements to build high-performance distributed systems.
 
-My professional journey is defined by hands-on engineering. During my tenure as an **IoT and Cloud Architect Intern at CopterCode (IIT Madras Research Park)**, I engineered a fault-tolerant software pipeline for drone telemetry. I utilized **AWS Lambda** and **IoT Core** to process high-velocity sensor data, optimizing algorithms to reduce latency by **30%**.
+Professionally, I served as an IoT & Cloud Architect Intern at CopterCode (IIT Madras Research Park), where I engineered a real-time drone telemetry pipeline. By utilizing AWS Lambda and IoT Core, I optimized data transmission algorithms to reduce system latency by 30%.
 
-Beyond development, I strive for excellence in every domain. I am a recognized **Wipro Earthian State Winner (2022)** and an **NPTEL Topper** (IIT Madras), reflecting my commitment to both technical innovation and academic rigor. whether it's organizing events for *Vidya Sagar* or building complex backend architectures, I am driven by the goal of leveraging technology to solve real-world problems.
+My technical work is backed by a track record of excellence, including being a Wipro Earthian State Winner (2022) and an NPTEL Topper. Whether architecting complex backends or organizing community initiatives for Vidya Sagar, I am driven by the goal of leveraging technology to solve critical real-world problems.
 
 ---
 * 🔭 **Focus:** Microservices Architecture, Distributed Systems, and Cloud DevOps.
